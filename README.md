@@ -10,7 +10,7 @@
 |Base|Deeplabv2-Res101|20k|SGD|321x321|8|0.001|Pascal VOC2012+Aug|0.0625|16G|1*V100|73.23|[https://pan.baidu.com/s/1Go3Vc-7ZNc899VaSik77yw?pwd=im47](https://pan.baidu.com/s/1Go3Vc-7ZNc899VaSik77yw?pwd=im47)|
 |Base|Deeplabv2-Res101|20k|SGD|321x321|8|0.001|Pascal VOC2012+Aug|0.03125|16G|1*V100|70.80|[https://pan.baidu.com/s/1Go3Vc-7ZNc899VaSik77yw?pwd=im47](https://pan.baidu.com/s/1Go3Vc-7ZNc899VaSik77yw?pwd=im47)|
 
-- UFMCD: Uncertainty-Guided Feature Mixing and Cross-Decoupled Pseudo Supervision for Semi-Supervised Semantic Segmentation(ICARCV, 2022)
+- UFMCD: Uncertainty-Aware Feature Mixing and Cross-Decoupled Pseudo Supervision for Semi-Supervised Semantic Segmentation(ICARCV, 2022)
 
 |SSL|NetWork |iters|opt|image_size|batch_size|lr|dataset|label_ratio|memory|card|best mIou|weight|
 |:---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: | :---: |
